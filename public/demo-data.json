@@ -1,0 +1,3252 @@
+{
+  "players": [
+    {
+      "name": "Demo Fan 1",
+      "emoji": "⚽",
+      "color": "#3563a9"
+    },
+    {
+      "name": "Demo Fan 2",
+      "emoji": "🏆",
+      "color": "#8e3c74"
+    },
+    {
+      "name": "Demo Fan 3",
+      "emoji": "🎉",
+      "color": "#287d62"
+    },
+    {
+      "name": "Demo Fan 4",
+      "emoji": "⭐",
+      "color": "#a66323"
+    }
+  ],
+  "matches": [
+    {
+      "id": "M01",
+      "group": "A",
+      "home": "Mexico",
+      "away": "South Africa",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,11) 15:00 ET",
+      "result": "mexico",
+      "bookmakerPick": "mexico",
+      "recordedResult": "Mexico"
+    },
+    {
+      "id": "M02",
+      "group": "A",
+      "home": "Korea Republic",
+      "away": "Czechia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,11) 22:00 ET",
+      "result": "korea republic",
+      "bookmakerPick": "korea republic",
+      "recordedResult": "Korea Republic"
+    },
+    {
+      "id": "M03",
+      "group": "B",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,12) 15:00 ET",
+      "result": "draw",
+      "bookmakerPick": "canada",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M04",
+      "group": "D",
+      "home": "USA",
+      "away": "Paraguay",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,12) 21:00 ET",
+      "result": "usa",
+      "bookmakerPick": "usa",
+      "recordedResult": "USA"
+    },
+    {
+      "id": "M05",
+      "group": "C",
+      "home": "Haiti",
+      "away": "Scotland",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,13) 21:00 ET",
+      "result": "scotland",
+      "bookmakerPick": "haiti",
+      "recordedResult": "Scotland"
+    },
+    {
+      "id": "M06",
+      "group": "D",
+      "home": "Australia",
+      "away": "Türkiye",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,13) 00:00 ET",
+      "result": "australia",
+      "bookmakerPick": "australia",
+      "recordedResult": "Australia"
+    },
+    {
+      "id": "M07",
+      "group": "C",
+      "home": "Brazil",
+      "away": "Morocco",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,13) 18:00 ET",
+      "result": "draw",
+      "bookmakerPick": "brazil",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M08",
+      "group": "B",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,13) 15:00 ET",
+      "result": "draw",
+      "bookmakerPick": "qatar",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M09",
+      "group": "E",
+      "home": "Côte d'Ivoire",
+      "away": "Ecuador",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,14) 19:00 ET",
+      "result": "côte d'ivoire",
+      "bookmakerPick": "côte d'ivoire",
+      "recordedResult": "Côte d'Ivoire"
+    },
+    {
+      "id": "M10",
+      "group": "E",
+      "home": "Germany",
+      "away": "Curaçao",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,14) 13:00 ET",
+      "result": "germany",
+      "bookmakerPick": "germany",
+      "recordedResult": "Germany"
+    },
+    {
+      "id": "M11",
+      "group": "F",
+      "home": "Netherlands",
+      "away": "Japan",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,14) 16:00 ET",
+      "result": "draw",
+      "bookmakerPick": "netherlands",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M12",
+      "group": "F",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,14) 22:00 ET",
+      "result": "sweden",
+      "bookmakerPick": "sweden",
+      "recordedResult": "Sweden"
+    },
+    {
+      "id": "M13",
+      "group": "H",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,15) 18:00 ET",
+      "result": "draw",
+      "bookmakerPick": "uruguay",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M14",
+      "group": "H",
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,15) 12:00 ET",
+      "result": "draw",
+      "bookmakerPick": "spain",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M15",
+      "group": "G",
+      "home": "IR Iran",
+      "away": "New Zealand",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,15) 21:00 ET",
+      "result": "draw",
+      "bookmakerPick": "ir iran",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M16",
+      "group": "G",
+      "home": "Belgium",
+      "away": "Egypt",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,15) 15:00 ET",
+      "result": "draw",
+      "bookmakerPick": "belgium",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M17",
+      "group": "I",
+      "home": "France",
+      "away": "Senegal",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,16) 15:00 ET",
+      "result": "france",
+      "bookmakerPick": "france",
+      "recordedResult": "France"
+    },
+    {
+      "id": "M18",
+      "group": "I",
+      "home": "Iraq",
+      "away": "Norway",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,16) 18:00 ET",
+      "result": "norway",
+      "bookmakerPick": "iraq",
+      "recordedResult": "Norway"
+    },
+    {
+      "id": "M19",
+      "group": "J",
+      "home": "Argentina",
+      "away": "Algeria",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,16) 21:00 ET",
+      "result": "argentina",
+      "bookmakerPick": "argentina",
+      "recordedResult": "Argentina"
+    },
+    {
+      "id": "M20",
+      "group": "J",
+      "home": "Austria",
+      "away": "Jordan",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,16) 00:00 ET",
+      "result": "austria",
+      "bookmakerPick": "austria",
+      "recordedResult": "Austria"
+    },
+    {
+      "id": "M21",
+      "group": "L",
+      "home": "Ghana",
+      "away": "Panama",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,17) 19:00 ET",
+      "result": "ghana",
+      "bookmakerPick": "ghana",
+      "recordedResult": "Ghana"
+    },
+    {
+      "id": "M22",
+      "group": "L",
+      "home": "England",
+      "away": "Croatia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,17) 16:00 ET",
+      "result": "england",
+      "bookmakerPick": "england",
+      "recordedResult": "England"
+    },
+    {
+      "id": "M23",
+      "group": "K",
+      "home": "Portugal",
+      "away": "Congo DR",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,17) 13:00 ET",
+      "result": "draw",
+      "bookmakerPick": "portugal",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M24",
+      "group": "K",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,17) 22:00 ET",
+      "result": "colombia",
+      "bookmakerPick": "colombia",
+      "recordedResult": "Colombia"
+    },
+    {
+      "id": "M25",
+      "group": "A",
+      "home": "Czechia",
+      "away": "South Africa",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,18) 12:00 ET",
+      "result": "draw",
+      "bookmakerPick": "czechia",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M26",
+      "group": "B",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,18) 15:00 ET",
+      "result": "bosnia and herzegovina",
+      "bookmakerPick": "switzerland",
+      "recordedResult": "Bosnia and Herzegovina"
+    },
+    {
+      "id": "M27",
+      "group": "B",
+      "home": "Canada",
+      "away": "Qatar",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,18) 18:00 ET",
+      "result": "canada",
+      "bookmakerPick": "canada",
+      "recordedResult": "Canada"
+    },
+    {
+      "id": "M28",
+      "group": "A",
+      "home": "Mexico",
+      "away": "Korea Republic",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,18) 21:00 ET",
+      "result": "mexico",
+      "bookmakerPick": "mexico",
+      "recordedResult": "Mexico"
+    },
+    {
+      "id": "M29",
+      "group": "C",
+      "home": "Brazil",
+      "away": "Haiti",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,19) 21:00 ET",
+      "result": "brazil",
+      "bookmakerPick": "brazil",
+      "recordedResult": "Brazil"
+    },
+    {
+      "id": "M30",
+      "group": "C",
+      "home": "Scotland",
+      "away": "Morocco",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,19) 18:00 ET",
+      "result": "morocco",
+      "bookmakerPick": "scotland",
+      "recordedResult": "Morocco"
+    },
+    {
+      "id": "M31",
+      "group": "D",
+      "home": "Türkiye",
+      "away": "Paraguay",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,19) 23:00 ET",
+      "result": "paraguay",
+      "bookmakerPick": "türkiye",
+      "recordedResult": "Paraguay"
+    },
+    {
+      "id": "M32",
+      "group": "D",
+      "home": "USA",
+      "away": "Australia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,19) 15:00 ET",
+      "result": "usa",
+      "bookmakerPick": "usa",
+      "recordedResult": "USA"
+    },
+    {
+      "id": "M33",
+      "group": "E",
+      "home": "Germany",
+      "away": "Côte d'Ivoire",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,20) 16:00 ET",
+      "result": "germany",
+      "bookmakerPick": "germany",
+      "recordedResult": "Germany"
+    },
+    {
+      "id": "M34",
+      "group": "E",
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,20) 20:00 ET",
+      "result": "draw",
+      "bookmakerPick": "ecuador",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M35",
+      "group": "F",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,20) 13:00 ET",
+      "result": "netherlands",
+      "bookmakerPick": "netherlands",
+      "recordedResult": "Netherlands"
+    },
+    {
+      "id": "M36",
+      "group": "F",
+      "home": "Tunisia",
+      "away": "Japan",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,20) 00:00 ET",
+      "result": "japan",
+      "bookmakerPick": "tunisia",
+      "recordedResult": "Japan"
+    },
+    {
+      "id": "M37",
+      "group": "H",
+      "home": "Uruguay",
+      "away": "Cabo Verde",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,21) 18:00 ET",
+      "result": "draw",
+      "bookmakerPick": "uruguay",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M38",
+      "group": "H",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,21) 12:00 ET",
+      "result": "spain",
+      "bookmakerPick": "spain",
+      "recordedResult": "Spain"
+    },
+    {
+      "id": "M39",
+      "group": "G",
+      "home": "Belgium",
+      "away": "IR Iran",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,21) 15:00 ET",
+      "result": "draw",
+      "bookmakerPick": "belgium",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M40",
+      "group": "G",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,21) 21:00 ET",
+      "result": "egypt",
+      "bookmakerPick": "new zealand",
+      "recordedResult": "Egypt"
+    },
+    {
+      "id": "M41",
+      "group": "I",
+      "home": "Norway",
+      "away": "Senegal",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,22) 20:00 ET",
+      "result": "norway",
+      "bookmakerPick": "norway",
+      "recordedResult": "Norway"
+    },
+    {
+      "id": "M42",
+      "group": "I",
+      "home": "France",
+      "away": "Iraq",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,22) 17:00 ET",
+      "result": "france",
+      "bookmakerPick": "france",
+      "recordedResult": "France"
+    },
+    {
+      "id": "M43",
+      "group": "J",
+      "home": "Argentina",
+      "away": "Austria",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,22) 13:00 ET",
+      "result": "argentina",
+      "bookmakerPick": "argentina",
+      "recordedResult": "Argentina"
+    },
+    {
+      "id": "M44",
+      "group": "J",
+      "home": "Jordan",
+      "away": "Algeria",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,22) 23:00 ET",
+      "result": "algeria",
+      "bookmakerPick": "jordan",
+      "recordedResult": "Algeria"
+    },
+    {
+      "id": "M45",
+      "group": "L",
+      "home": "England",
+      "away": "Ghana",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,23) 16:00 ET",
+      "result": "draw",
+      "bookmakerPick": "england",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M46",
+      "group": "L",
+      "home": "Panama",
+      "away": "Croatia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,23) 19:00 ET",
+      "result": "croatia",
+      "bookmakerPick": "croatia",
+      "recordedResult": "Croatia"
+    },
+    {
+      "id": "M47",
+      "group": "K",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,23) 13:00 ET",
+      "result": "portugal",
+      "bookmakerPick": "portugal",
+      "recordedResult": "Portugal"
+    },
+    {
+      "id": "M48",
+      "group": "K",
+      "home": "Colombia",
+      "away": "Congo DR",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,23) 22:00 ET",
+      "result": "colombia",
+      "bookmakerPick": "colombia",
+      "recordedResult": "Colombia"
+    },
+    {
+      "id": "M49",
+      "group": "C",
+      "home": "Scotland",
+      "away": "Brazil",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,24) 18:00 ET",
+      "result": "brazil",
+      "bookmakerPick": "brazil",
+      "recordedResult": "Brazil"
+    },
+    {
+      "id": "M50",
+      "group": "C",
+      "home": "Morocco",
+      "away": "Haiti",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,24) 18:00 ET",
+      "result": "morocco",
+      "bookmakerPick": "morocco",
+      "recordedResult": "Morocco"
+    },
+    {
+      "id": "M51",
+      "group": "B",
+      "home": "Switzerland",
+      "away": "Canada",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,24) 15:00 ET",
+      "result": "switzerland",
+      "bookmakerPick": "switzerland",
+      "recordedResult": "Switzerland"
+    },
+    {
+      "id": "M52",
+      "group": "B",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,24) 15:00 ET",
+      "result": "bosnia and herzegovina",
+      "bookmakerPick": "bosnia and herzegovina",
+      "recordedResult": "Bosnia and Herzegovina"
+    },
+    {
+      "id": "M53",
+      "group": "A",
+      "home": "Czechia",
+      "away": "Mexico",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,24) 21:00 ET",
+      "result": "mexico",
+      "bookmakerPick": "mexico",
+      "recordedResult": "Mexico"
+    },
+    {
+      "id": "M54",
+      "group": "A",
+      "home": "South Africa",
+      "away": "Korea Republic",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,24) 21:00 ET",
+      "result": "south africa",
+      "bookmakerPick": "south africa",
+      "recordedResult": "South Africa"
+    },
+    {
+      "id": "M55",
+      "group": "E",
+      "home": "Curaçao",
+      "away": "Côte d'Ivoire",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,25) 16:00 ET",
+      "result": "côte d'ivoire",
+      "bookmakerPick": "curaçao",
+      "recordedResult": "Côte d'Ivoire"
+    },
+    {
+      "id": "M56",
+      "group": "E",
+      "home": "Ecuador",
+      "away": "Germany",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,25) 16:00 ET",
+      "result": "ecuador",
+      "bookmakerPick": "germany",
+      "recordedResult": "Ecuador"
+    },
+    {
+      "id": "M57",
+      "group": "F",
+      "home": "Japan",
+      "away": "Sweden",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,25) 19:00 ET",
+      "result": "draw",
+      "bookmakerPick": "japan",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M58",
+      "group": "F",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,25) 19:00 ET",
+      "result": "netherlands",
+      "bookmakerPick": "netherlands",
+      "recordedResult": "Netherlands"
+    },
+    {
+      "id": "M59",
+      "group": "D",
+      "home": "Türkiye",
+      "away": "USA",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,25) 22:00 ET",
+      "result": "türkiye",
+      "bookmakerPick": "usa",
+      "recordedResult": "Türkiye"
+    },
+    {
+      "id": "M60",
+      "group": "D",
+      "home": "Paraguay",
+      "away": "Australia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,25) 22:00 ET",
+      "result": "draw",
+      "bookmakerPick": "paraguay",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M61",
+      "group": "I",
+      "home": "Norway",
+      "away": "France",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,26) 15:00 ET",
+      "result": "france",
+      "bookmakerPick": "france",
+      "recordedResult": "France"
+    },
+    {
+      "id": "M62",
+      "group": "I",
+      "home": "Senegal",
+      "away": "Iraq",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,26) 15:00 ET",
+      "result": "senegal",
+      "bookmakerPick": "senegal",
+      "recordedResult": "Senegal"
+    },
+    {
+      "id": "M63",
+      "group": "G",
+      "home": "Egypt",
+      "away": "IR Iran",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,26) 23:00 ET",
+      "result": "draw",
+      "bookmakerPick": "egypt",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M64",
+      "group": "G",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,26) 23:00 ET",
+      "result": "belgium",
+      "bookmakerPick": "belgium",
+      "recordedResult": "Belgium"
+    },
+    {
+      "id": "M65",
+      "group": "H",
+      "home": "Cabo Verde",
+      "away": "Saudi Arabia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,26) 20:00 ET",
+      "result": "draw",
+      "bookmakerPick": "cabo verde",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M66",
+      "group": "H",
+      "home": "Uruguay",
+      "away": "Spain",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,26) 20:00 ET",
+      "result": "spain",
+      "bookmakerPick": "uruguay",
+      "recordedResult": "Spain"
+    },
+    {
+      "id": "M67",
+      "group": "L",
+      "home": "Panama",
+      "away": "England",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,27) 17:00 ET",
+      "result": "england",
+      "bookmakerPick": "england",
+      "recordedResult": "England"
+    },
+    {
+      "id": "M68",
+      "group": "L",
+      "home": "Croatia",
+      "away": "Ghana",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,27) 17:00 ET",
+      "result": "croatia",
+      "bookmakerPick": "croatia",
+      "recordedResult": "Croatia"
+    },
+    {
+      "id": "M69",
+      "group": "J",
+      "home": "Algeria",
+      "away": "Austria",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,27) 22:00 ET",
+      "result": "draw",
+      "bookmakerPick": "algeria",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M70",
+      "group": "J",
+      "home": "Jordan",
+      "away": "Argentina",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,27) 22:00 ET",
+      "result": "argentina",
+      "bookmakerPick": "argentina",
+      "recordedResult": "Argentina"
+    },
+    {
+      "id": "M71",
+      "group": "K",
+      "home": "Colombia",
+      "away": "Portugal",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,27) 19:30 ET",
+      "result": "draw",
+      "bookmakerPick": "colombia",
+      "recordedResult": "Draw"
+    },
+    {
+      "id": "M72",
+      "group": "K",
+      "home": "Congo DR",
+      "away": "Uzbekistan",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,27) 19:30 ET",
+      "result": "congo dr",
+      "bookmakerPick": "congo dr",
+      "recordedResult": "Congo DR"
+    },
+    {
+      "id": "R32-01",
+      "group": "",
+      "home": "South Africa",
+      "away": "Canada",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,28) 15:00 ET",
+      "result": "canada",
+      "bookmakerPick": "south africa",
+      "recordedResult": "Canada"
+    },
+    {
+      "id": "R32-02",
+      "group": "",
+      "home": "Brazil",
+      "away": "Japan",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,29) 13:00 ET",
+      "result": "brazil",
+      "bookmakerPick": "brazil",
+      "recordedResult": "Brazil"
+    },
+    {
+      "id": "R32-03",
+      "group": "",
+      "home": "Germany",
+      "away": "Paraguay",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,29) 16:30 ET",
+      "result": "paraguay",
+      "bookmakerPick": "germany",
+      "recordedResult": "Paraguay"
+    },
+    {
+      "id": "R32-04",
+      "group": "",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,29) 21:00 ET",
+      "result": "morocco",
+      "bookmakerPick": "netherlands",
+      "recordedResult": "Morocco"
+    },
+    {
+      "id": "R32-05",
+      "group": "",
+      "home": "Côte d'Ivoire",
+      "away": "Norway",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,30) 13:00 ET",
+      "result": "norway",
+      "bookmakerPick": "côte d'ivoire",
+      "recordedResult": "Norway"
+    },
+    {
+      "id": "R32-06",
+      "group": "",
+      "home": "France",
+      "away": "Sweden",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,30) 17:00 ET",
+      "result": "france",
+      "bookmakerPick": "france",
+      "recordedResult": "France"
+    },
+    {
+      "id": "R32-07",
+      "group": "",
+      "home": "Mexico",
+      "away": "Ecuador",
+      "teamsPending": false,
+      "kickoff": "Date(2026,5,30) 21:00 ET",
+      "result": "mexico",
+      "bookmakerPick": "mexico",
+      "recordedResult": "Mexico"
+    },
+    {
+      "id": "R32-08",
+      "group": "",
+      "home": "England",
+      "away": "Congo DR",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,1) 12:00 ET",
+      "result": "england",
+      "bookmakerPick": "england",
+      "recordedResult": "England"
+    },
+    {
+      "id": "R32-09",
+      "group": "",
+      "home": "Belgium",
+      "away": "Senegal",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,1) 16:00 ET",
+      "result": "belgium",
+      "bookmakerPick": "belgium",
+      "recordedResult": "Belgium"
+    },
+    {
+      "id": "R32-10",
+      "group": "",
+      "home": "USA",
+      "away": "Bosnia and Herzegovina",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,1) 20:00 ET",
+      "result": "usa",
+      "bookmakerPick": "usa",
+      "recordedResult": "USA"
+    },
+    {
+      "id": "R32-11",
+      "group": "",
+      "home": "Spain",
+      "away": "Austria",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,2) 15:00 ET",
+      "result": "spain",
+      "bookmakerPick": "spain",
+      "recordedResult": "Spain"
+    },
+    {
+      "id": "R32-12",
+      "group": "",
+      "home": "Portugal",
+      "away": "Croatia",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,2) 19:00 ET",
+      "result": "portugal",
+      "bookmakerPick": "portugal",
+      "recordedResult": "Portugal"
+    },
+    {
+      "id": "R32-13",
+      "group": "",
+      "home": "Switzerland",
+      "away": "Algeria",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,2) 23:00 ET",
+      "result": "switzerland",
+      "bookmakerPick": "switzerland",
+      "recordedResult": "Switzerland"
+    },
+    {
+      "id": "R32-14",
+      "group": "",
+      "home": "Australia",
+      "away": "Egypt",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,3) 14:00 ET",
+      "result": "egypt",
+      "bookmakerPick": "australia",
+      "recordedResult": "Egypt"
+    },
+    {
+      "id": "R32-15",
+      "group": "",
+      "home": "Argentina",
+      "away": "Cabo Verde",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,3) 18:00 ET",
+      "result": "argentina",
+      "bookmakerPick": "argentina",
+      "recordedResult": "Argentina"
+    },
+    {
+      "id": "R32-16",
+      "group": "",
+      "home": "Colombia",
+      "away": "Ghana",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,3) 21:30 ET",
+      "result": "colombia",
+      "bookmakerPick": "colombia",
+      "recordedResult": "Colombia"
+    },
+    {
+      "id": "R16-01",
+      "group": "",
+      "home": "Canada",
+      "away": "Morocco",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,4) 12:00 ET",
+      "result": "morocco",
+      "bookmakerPick": "canada",
+      "recordedResult": "Morocco"
+    },
+    {
+      "id": "R16-02",
+      "group": "",
+      "home": "Paraguay",
+      "away": "France",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,4) 16:00 ET",
+      "result": "france",
+      "bookmakerPick": "france",
+      "recordedResult": "France"
+    },
+    {
+      "id": "R16-03",
+      "group": "",
+      "home": "Brazil",
+      "away": "Norway",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,4) 20:00 ET",
+      "result": "norway",
+      "bookmakerPick": "brazil",
+      "recordedResult": "Norway"
+    },
+    {
+      "id": "R16-04",
+      "group": "",
+      "home": "Mexico",
+      "away": "England",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,5) 12:00 ET",
+      "result": "england",
+      "bookmakerPick": "mexico",
+      "recordedResult": "England"
+    },
+    {
+      "id": "R16-05",
+      "group": "",
+      "home": "Spain",
+      "away": "Portugal",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,5) 16:00 ET",
+      "result": "spain",
+      "bookmakerPick": "spain",
+      "recordedResult": "Spain"
+    },
+    {
+      "id": "R16-06",
+      "group": "",
+      "home": "USA",
+      "away": "Belgium",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,5) 20:00 ET",
+      "result": "belgium",
+      "bookmakerPick": "usa",
+      "recordedResult": "Belgium"
+    },
+    {
+      "id": "R16-07",
+      "group": "",
+      "home": "Argentina",
+      "away": "Egypt",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,6) 16:00 ET",
+      "result": "argentina",
+      "bookmakerPick": "argentina",
+      "recordedResult": "Argentina"
+    },
+    {
+      "id": "R16-08",
+      "group": "",
+      "home": "Colombia",
+      "away": "Switzerland",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,7) 20:00 ET",
+      "result": "switzerland",
+      "bookmakerPick": "colombia",
+      "recordedResult": "Switzerland"
+    },
+    {
+      "id": "QF-01",
+      "group": "",
+      "home": "France",
+      "away": "Morocco",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,10) 16:00 ET",
+      "result": "france",
+      "bookmakerPick": "france",
+      "recordedResult": "France"
+    },
+    {
+      "id": "QF-02",
+      "group": "",
+      "home": "Spain",
+      "away": "Belgium",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,10) 20:00 ET",
+      "result": "spain",
+      "bookmakerPick": "spain",
+      "recordedResult": "Spain"
+    },
+    {
+      "id": "QF-03",
+      "group": "",
+      "home": "Norway",
+      "away": "England",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,11) 16:00 ET",
+      "result": "england",
+      "bookmakerPick": "england",
+      "recordedResult": "England"
+    },
+    {
+      "id": "QF-04",
+      "group": "",
+      "home": "Argentina",
+      "away": "Switzerland",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,11) 20:00 ET",
+      "result": "argentina",
+      "bookmakerPick": "argentina",
+      "recordedResult": "Argentina"
+    },
+    {
+      "id": "SF-01",
+      "group": "",
+      "home": "France",
+      "away": "Spain",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,14) 20:00 ET",
+      "result": "spain",
+      "bookmakerPick": "france",
+      "recordedResult": "Spain"
+    },
+    {
+      "id": "SF-02",
+      "group": "",
+      "home": "England",
+      "away": "Argentina",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,15) 20:00 ET",
+      "result": "argentina",
+      "bookmakerPick": "england",
+      "recordedResult": "Argentina"
+    },
+    {
+      "id": "3P-01",
+      "group": "",
+      "home": "France",
+      "away": "England",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,18) 16:00 ET",
+      "result": "england",
+      "bookmakerPick": "france",
+      "recordedResult": "England"
+    },
+    {
+      "id": "F-01",
+      "group": "",
+      "home": "Argentina",
+      "away": "Spain",
+      "teamsPending": false,
+      "kickoff": "Date(2026,6,19) 15:00 ET",
+      "result": "spain",
+      "bookmakerPick": "argentina",
+      "recordedResult": "Spain"
+    }
+  ],
+  "bets": [
+    {
+      "match_id": "M01",
+      "player": "Demo Fan 1",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "M01",
+      "player": "Demo Fan 2",
+      "pick": "south africa"
+    },
+    {
+      "match_id": "M01",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M01",
+      "player": "Demo Fan 4",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "M02",
+      "player": "Demo Fan 1",
+      "pick": "czechia"
+    },
+    {
+      "match_id": "M02",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M02",
+      "player": "Demo Fan 3",
+      "pick": "korea republic"
+    },
+    {
+      "match_id": "M02",
+      "player": "Demo Fan 4",
+      "pick": "czechia"
+    },
+    {
+      "match_id": "M03",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M03",
+      "player": "Demo Fan 2",
+      "pick": "canada"
+    },
+    {
+      "match_id": "M03",
+      "player": "Demo Fan 3",
+      "pick": "bosnia and herzegovina"
+    },
+    {
+      "match_id": "M03",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M04",
+      "player": "Demo Fan 1",
+      "pick": "usa"
+    },
+    {
+      "match_id": "M04",
+      "player": "Demo Fan 2",
+      "pick": "paraguay"
+    },
+    {
+      "match_id": "M04",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M04",
+      "player": "Demo Fan 4",
+      "pick": "usa"
+    },
+    {
+      "match_id": "M05",
+      "player": "Demo Fan 1",
+      "pick": "scotland"
+    },
+    {
+      "match_id": "M05",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M05",
+      "player": "Demo Fan 3",
+      "pick": "haiti"
+    },
+    {
+      "match_id": "M05",
+      "player": "Demo Fan 4",
+      "pick": "scotland"
+    },
+    {
+      "match_id": "M06",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M06",
+      "player": "Demo Fan 2",
+      "pick": "australia"
+    },
+    {
+      "match_id": "M06",
+      "player": "Demo Fan 3",
+      "pick": "türkiye"
+    },
+    {
+      "match_id": "M06",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M07",
+      "player": "Demo Fan 1",
+      "pick": "brazil"
+    },
+    {
+      "match_id": "M07",
+      "player": "Demo Fan 2",
+      "pick": "morocco"
+    },
+    {
+      "match_id": "M07",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M07",
+      "player": "Demo Fan 4",
+      "pick": "brazil"
+    },
+    {
+      "match_id": "M08",
+      "player": "Demo Fan 1",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "M08",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M08",
+      "player": "Demo Fan 3",
+      "pick": "qatar"
+    },
+    {
+      "match_id": "M08",
+      "player": "Demo Fan 4",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "M09",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M09",
+      "player": "Demo Fan 2",
+      "pick": "côte d'ivoire"
+    },
+    {
+      "match_id": "M09",
+      "player": "Demo Fan 3",
+      "pick": "ecuador"
+    },
+    {
+      "match_id": "M09",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M10",
+      "player": "Demo Fan 1",
+      "pick": "germany"
+    },
+    {
+      "match_id": "M10",
+      "player": "Demo Fan 2",
+      "pick": "curaçao"
+    },
+    {
+      "match_id": "M10",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M10",
+      "player": "Demo Fan 4",
+      "pick": "germany"
+    },
+    {
+      "match_id": "M11",
+      "player": "Demo Fan 1",
+      "pick": "japan"
+    },
+    {
+      "match_id": "M11",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M11",
+      "player": "Demo Fan 3",
+      "pick": "netherlands"
+    },
+    {
+      "match_id": "M11",
+      "player": "Demo Fan 4",
+      "pick": "japan"
+    },
+    {
+      "match_id": "M12",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M12",
+      "player": "Demo Fan 2",
+      "pick": "sweden"
+    },
+    {
+      "match_id": "M12",
+      "player": "Demo Fan 3",
+      "pick": "tunisia"
+    },
+    {
+      "match_id": "M12",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M13",
+      "player": "Demo Fan 1",
+      "pick": "saudi arabia"
+    },
+    {
+      "match_id": "M13",
+      "player": "Demo Fan 2",
+      "pick": "uruguay"
+    },
+    {
+      "match_id": "M13",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M13",
+      "player": "Demo Fan 4",
+      "pick": "saudi arabia"
+    },
+    {
+      "match_id": "M14",
+      "player": "Demo Fan 1",
+      "pick": "cabo verde"
+    },
+    {
+      "match_id": "M14",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M14",
+      "player": "Demo Fan 3",
+      "pick": "spain"
+    },
+    {
+      "match_id": "M14",
+      "player": "Demo Fan 4",
+      "pick": "cabo verde"
+    },
+    {
+      "match_id": "M15",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M15",
+      "player": "Demo Fan 2",
+      "pick": "ir iran"
+    },
+    {
+      "match_id": "M15",
+      "player": "Demo Fan 3",
+      "pick": "new zealand"
+    },
+    {
+      "match_id": "M15",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M16",
+      "player": "Demo Fan 1",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "M16",
+      "player": "Demo Fan 2",
+      "pick": "egypt"
+    },
+    {
+      "match_id": "M16",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M16",
+      "player": "Demo Fan 4",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "M17",
+      "player": "Demo Fan 1",
+      "pick": "senegal"
+    },
+    {
+      "match_id": "M17",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M17",
+      "player": "Demo Fan 3",
+      "pick": "france"
+    },
+    {
+      "match_id": "M17",
+      "player": "Demo Fan 4",
+      "pick": "senegal"
+    },
+    {
+      "match_id": "M18",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M18",
+      "player": "Demo Fan 2",
+      "pick": "iraq"
+    },
+    {
+      "match_id": "M18",
+      "player": "Demo Fan 3",
+      "pick": "norway"
+    },
+    {
+      "match_id": "M18",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M19",
+      "player": "Demo Fan 1",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "M19",
+      "player": "Demo Fan 2",
+      "pick": "algeria"
+    },
+    {
+      "match_id": "M19",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M19",
+      "player": "Demo Fan 4",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "M20",
+      "player": "Demo Fan 1",
+      "pick": "jordan"
+    },
+    {
+      "match_id": "M20",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M20",
+      "player": "Demo Fan 3",
+      "pick": "austria"
+    },
+    {
+      "match_id": "M20",
+      "player": "Demo Fan 4",
+      "pick": "jordan"
+    },
+    {
+      "match_id": "M21",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M21",
+      "player": "Demo Fan 2",
+      "pick": "ghana"
+    },
+    {
+      "match_id": "M21",
+      "player": "Demo Fan 3",
+      "pick": "panama"
+    },
+    {
+      "match_id": "M21",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M22",
+      "player": "Demo Fan 1",
+      "pick": "england"
+    },
+    {
+      "match_id": "M22",
+      "player": "Demo Fan 2",
+      "pick": "croatia"
+    },
+    {
+      "match_id": "M22",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M22",
+      "player": "Demo Fan 4",
+      "pick": "england"
+    },
+    {
+      "match_id": "M23",
+      "player": "Demo Fan 1",
+      "pick": "congo dr"
+    },
+    {
+      "match_id": "M23",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M23",
+      "player": "Demo Fan 3",
+      "pick": "portugal"
+    },
+    {
+      "match_id": "M23",
+      "player": "Demo Fan 4",
+      "pick": "congo dr"
+    },
+    {
+      "match_id": "M24",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M24",
+      "player": "Demo Fan 2",
+      "pick": "uzbekistan"
+    },
+    {
+      "match_id": "M24",
+      "player": "Demo Fan 3",
+      "pick": "colombia"
+    },
+    {
+      "match_id": "M24",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M25",
+      "player": "Demo Fan 1",
+      "pick": "czechia"
+    },
+    {
+      "match_id": "M25",
+      "player": "Demo Fan 2",
+      "pick": "south africa"
+    },
+    {
+      "match_id": "M25",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M25",
+      "player": "Demo Fan 4",
+      "pick": "czechia"
+    },
+    {
+      "match_id": "M26",
+      "player": "Demo Fan 1",
+      "pick": "bosnia and herzegovina"
+    },
+    {
+      "match_id": "M26",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M26",
+      "player": "Demo Fan 3",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "M26",
+      "player": "Demo Fan 4",
+      "pick": "bosnia and herzegovina"
+    },
+    {
+      "match_id": "M27",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M27",
+      "player": "Demo Fan 2",
+      "pick": "canada"
+    },
+    {
+      "match_id": "M27",
+      "player": "Demo Fan 3",
+      "pick": "qatar"
+    },
+    {
+      "match_id": "M27",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M28",
+      "player": "Demo Fan 1",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "M28",
+      "player": "Demo Fan 2",
+      "pick": "korea republic"
+    },
+    {
+      "match_id": "M28",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M28",
+      "player": "Demo Fan 4",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "M29",
+      "player": "Demo Fan 1",
+      "pick": "haiti"
+    },
+    {
+      "match_id": "M29",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M29",
+      "player": "Demo Fan 3",
+      "pick": "brazil"
+    },
+    {
+      "match_id": "M29",
+      "player": "Demo Fan 4",
+      "pick": "haiti"
+    },
+    {
+      "match_id": "M30",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M30",
+      "player": "Demo Fan 2",
+      "pick": "scotland"
+    },
+    {
+      "match_id": "M30",
+      "player": "Demo Fan 3",
+      "pick": "morocco"
+    },
+    {
+      "match_id": "M30",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M31",
+      "player": "Demo Fan 1",
+      "pick": "türkiye"
+    },
+    {
+      "match_id": "M31",
+      "player": "Demo Fan 2",
+      "pick": "paraguay"
+    },
+    {
+      "match_id": "M31",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M31",
+      "player": "Demo Fan 4",
+      "pick": "türkiye"
+    },
+    {
+      "match_id": "M32",
+      "player": "Demo Fan 1",
+      "pick": "australia"
+    },
+    {
+      "match_id": "M32",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M32",
+      "player": "Demo Fan 3",
+      "pick": "usa"
+    },
+    {
+      "match_id": "M32",
+      "player": "Demo Fan 4",
+      "pick": "australia"
+    },
+    {
+      "match_id": "M33",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M33",
+      "player": "Demo Fan 2",
+      "pick": "germany"
+    },
+    {
+      "match_id": "M33",
+      "player": "Demo Fan 3",
+      "pick": "côte d'ivoire"
+    },
+    {
+      "match_id": "M33",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M34",
+      "player": "Demo Fan 1",
+      "pick": "ecuador"
+    },
+    {
+      "match_id": "M34",
+      "player": "Demo Fan 2",
+      "pick": "curaçao"
+    },
+    {
+      "match_id": "M34",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M34",
+      "player": "Demo Fan 4",
+      "pick": "ecuador"
+    },
+    {
+      "match_id": "M35",
+      "player": "Demo Fan 1",
+      "pick": "sweden"
+    },
+    {
+      "match_id": "M35",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M35",
+      "player": "Demo Fan 3",
+      "pick": "netherlands"
+    },
+    {
+      "match_id": "M35",
+      "player": "Demo Fan 4",
+      "pick": "sweden"
+    },
+    {
+      "match_id": "M36",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M36",
+      "player": "Demo Fan 2",
+      "pick": "tunisia"
+    },
+    {
+      "match_id": "M36",
+      "player": "Demo Fan 3",
+      "pick": "japan"
+    },
+    {
+      "match_id": "M36",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M37",
+      "player": "Demo Fan 1",
+      "pick": "uruguay"
+    },
+    {
+      "match_id": "M37",
+      "player": "Demo Fan 2",
+      "pick": "cabo verde"
+    },
+    {
+      "match_id": "M37",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M37",
+      "player": "Demo Fan 4",
+      "pick": "uruguay"
+    },
+    {
+      "match_id": "M38",
+      "player": "Demo Fan 1",
+      "pick": "saudi arabia"
+    },
+    {
+      "match_id": "M38",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M38",
+      "player": "Demo Fan 3",
+      "pick": "spain"
+    },
+    {
+      "match_id": "M38",
+      "player": "Demo Fan 4",
+      "pick": "saudi arabia"
+    },
+    {
+      "match_id": "M39",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M39",
+      "player": "Demo Fan 2",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "M39",
+      "player": "Demo Fan 3",
+      "pick": "ir iran"
+    },
+    {
+      "match_id": "M39",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M40",
+      "player": "Demo Fan 1",
+      "pick": "new zealand"
+    },
+    {
+      "match_id": "M40",
+      "player": "Demo Fan 2",
+      "pick": "egypt"
+    },
+    {
+      "match_id": "M40",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M40",
+      "player": "Demo Fan 4",
+      "pick": "new zealand"
+    },
+    {
+      "match_id": "M41",
+      "player": "Demo Fan 1",
+      "pick": "senegal"
+    },
+    {
+      "match_id": "M41",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M41",
+      "player": "Demo Fan 3",
+      "pick": "norway"
+    },
+    {
+      "match_id": "M41",
+      "player": "Demo Fan 4",
+      "pick": "senegal"
+    },
+    {
+      "match_id": "M42",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M42",
+      "player": "Demo Fan 2",
+      "pick": "france"
+    },
+    {
+      "match_id": "M42",
+      "player": "Demo Fan 3",
+      "pick": "iraq"
+    },
+    {
+      "match_id": "M42",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M43",
+      "player": "Demo Fan 1",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "M43",
+      "player": "Demo Fan 2",
+      "pick": "austria"
+    },
+    {
+      "match_id": "M43",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M43",
+      "player": "Demo Fan 4",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "M44",
+      "player": "Demo Fan 1",
+      "pick": "algeria"
+    },
+    {
+      "match_id": "M44",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M44",
+      "player": "Demo Fan 3",
+      "pick": "jordan"
+    },
+    {
+      "match_id": "M44",
+      "player": "Demo Fan 4",
+      "pick": "algeria"
+    },
+    {
+      "match_id": "M45",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M45",
+      "player": "Demo Fan 2",
+      "pick": "england"
+    },
+    {
+      "match_id": "M45",
+      "player": "Demo Fan 3",
+      "pick": "ghana"
+    },
+    {
+      "match_id": "M45",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M46",
+      "player": "Demo Fan 1",
+      "pick": "panama"
+    },
+    {
+      "match_id": "M46",
+      "player": "Demo Fan 2",
+      "pick": "croatia"
+    },
+    {
+      "match_id": "M46",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M46",
+      "player": "Demo Fan 4",
+      "pick": "panama"
+    },
+    {
+      "match_id": "M47",
+      "player": "Demo Fan 1",
+      "pick": "uzbekistan"
+    },
+    {
+      "match_id": "M47",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M47",
+      "player": "Demo Fan 3",
+      "pick": "portugal"
+    },
+    {
+      "match_id": "M47",
+      "player": "Demo Fan 4",
+      "pick": "uzbekistan"
+    },
+    {
+      "match_id": "M48",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M48",
+      "player": "Demo Fan 2",
+      "pick": "colombia"
+    },
+    {
+      "match_id": "M48",
+      "player": "Demo Fan 3",
+      "pick": "congo dr"
+    },
+    {
+      "match_id": "M48",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M49",
+      "player": "Demo Fan 1",
+      "pick": "scotland"
+    },
+    {
+      "match_id": "M49",
+      "player": "Demo Fan 2",
+      "pick": "brazil"
+    },
+    {
+      "match_id": "M49",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M49",
+      "player": "Demo Fan 4",
+      "pick": "scotland"
+    },
+    {
+      "match_id": "M50",
+      "player": "Demo Fan 1",
+      "pick": "haiti"
+    },
+    {
+      "match_id": "M50",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M50",
+      "player": "Demo Fan 3",
+      "pick": "morocco"
+    },
+    {
+      "match_id": "M50",
+      "player": "Demo Fan 4",
+      "pick": "haiti"
+    },
+    {
+      "match_id": "M51",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M51",
+      "player": "Demo Fan 2",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "M51",
+      "player": "Demo Fan 3",
+      "pick": "canada"
+    },
+    {
+      "match_id": "M51",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M52",
+      "player": "Demo Fan 1",
+      "pick": "bosnia and herzegovina"
+    },
+    {
+      "match_id": "M52",
+      "player": "Demo Fan 2",
+      "pick": "qatar"
+    },
+    {
+      "match_id": "M52",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M52",
+      "player": "Demo Fan 4",
+      "pick": "bosnia and herzegovina"
+    },
+    {
+      "match_id": "M53",
+      "player": "Demo Fan 1",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "M53",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M53",
+      "player": "Demo Fan 3",
+      "pick": "czechia"
+    },
+    {
+      "match_id": "M53",
+      "player": "Demo Fan 4",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "M54",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M54",
+      "player": "Demo Fan 2",
+      "pick": "south africa"
+    },
+    {
+      "match_id": "M54",
+      "player": "Demo Fan 3",
+      "pick": "korea republic"
+    },
+    {
+      "match_id": "M54",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M55",
+      "player": "Demo Fan 1",
+      "pick": "curaçao"
+    },
+    {
+      "match_id": "M55",
+      "player": "Demo Fan 2",
+      "pick": "côte d'ivoire"
+    },
+    {
+      "match_id": "M55",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M55",
+      "player": "Demo Fan 4",
+      "pick": "curaçao"
+    },
+    {
+      "match_id": "M56",
+      "player": "Demo Fan 1",
+      "pick": "germany"
+    },
+    {
+      "match_id": "M56",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M56",
+      "player": "Demo Fan 3",
+      "pick": "ecuador"
+    },
+    {
+      "match_id": "M56",
+      "player": "Demo Fan 4",
+      "pick": "germany"
+    },
+    {
+      "match_id": "M57",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M57",
+      "player": "Demo Fan 2",
+      "pick": "japan"
+    },
+    {
+      "match_id": "M57",
+      "player": "Demo Fan 3",
+      "pick": "sweden"
+    },
+    {
+      "match_id": "M57",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M58",
+      "player": "Demo Fan 1",
+      "pick": "tunisia"
+    },
+    {
+      "match_id": "M58",
+      "player": "Demo Fan 2",
+      "pick": "netherlands"
+    },
+    {
+      "match_id": "M58",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M58",
+      "player": "Demo Fan 4",
+      "pick": "tunisia"
+    },
+    {
+      "match_id": "M59",
+      "player": "Demo Fan 1",
+      "pick": "usa"
+    },
+    {
+      "match_id": "M59",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M59",
+      "player": "Demo Fan 3",
+      "pick": "türkiye"
+    },
+    {
+      "match_id": "M59",
+      "player": "Demo Fan 4",
+      "pick": "usa"
+    },
+    {
+      "match_id": "M60",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M60",
+      "player": "Demo Fan 2",
+      "pick": "paraguay"
+    },
+    {
+      "match_id": "M60",
+      "player": "Demo Fan 3",
+      "pick": "australia"
+    },
+    {
+      "match_id": "M60",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M61",
+      "player": "Demo Fan 1",
+      "pick": "norway"
+    },
+    {
+      "match_id": "M61",
+      "player": "Demo Fan 2",
+      "pick": "france"
+    },
+    {
+      "match_id": "M61",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M61",
+      "player": "Demo Fan 4",
+      "pick": "norway"
+    },
+    {
+      "match_id": "M62",
+      "player": "Demo Fan 1",
+      "pick": "iraq"
+    },
+    {
+      "match_id": "M62",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M62",
+      "player": "Demo Fan 3",
+      "pick": "senegal"
+    },
+    {
+      "match_id": "M62",
+      "player": "Demo Fan 4",
+      "pick": "iraq"
+    },
+    {
+      "match_id": "M63",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M63",
+      "player": "Demo Fan 2",
+      "pick": "egypt"
+    },
+    {
+      "match_id": "M63",
+      "player": "Demo Fan 3",
+      "pick": "ir iran"
+    },
+    {
+      "match_id": "M63",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M64",
+      "player": "Demo Fan 1",
+      "pick": "new zealand"
+    },
+    {
+      "match_id": "M64",
+      "player": "Demo Fan 2",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "M64",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M64",
+      "player": "Demo Fan 4",
+      "pick": "new zealand"
+    },
+    {
+      "match_id": "M65",
+      "player": "Demo Fan 1",
+      "pick": "saudi arabia"
+    },
+    {
+      "match_id": "M65",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M65",
+      "player": "Demo Fan 3",
+      "pick": "cabo verde"
+    },
+    {
+      "match_id": "M65",
+      "player": "Demo Fan 4",
+      "pick": "saudi arabia"
+    },
+    {
+      "match_id": "M66",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M66",
+      "player": "Demo Fan 2",
+      "pick": "uruguay"
+    },
+    {
+      "match_id": "M66",
+      "player": "Demo Fan 3",
+      "pick": "spain"
+    },
+    {
+      "match_id": "M66",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M67",
+      "player": "Demo Fan 1",
+      "pick": "panama"
+    },
+    {
+      "match_id": "M67",
+      "player": "Demo Fan 2",
+      "pick": "england"
+    },
+    {
+      "match_id": "M67",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M67",
+      "player": "Demo Fan 4",
+      "pick": "panama"
+    },
+    {
+      "match_id": "M68",
+      "player": "Demo Fan 1",
+      "pick": "ghana"
+    },
+    {
+      "match_id": "M68",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M68",
+      "player": "Demo Fan 3",
+      "pick": "croatia"
+    },
+    {
+      "match_id": "M68",
+      "player": "Demo Fan 4",
+      "pick": "ghana"
+    },
+    {
+      "match_id": "M69",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M69",
+      "player": "Demo Fan 2",
+      "pick": "algeria"
+    },
+    {
+      "match_id": "M69",
+      "player": "Demo Fan 3",
+      "pick": "austria"
+    },
+    {
+      "match_id": "M69",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M70",
+      "player": "Demo Fan 1",
+      "pick": "jordan"
+    },
+    {
+      "match_id": "M70",
+      "player": "Demo Fan 2",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "M70",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M70",
+      "player": "Demo Fan 4",
+      "pick": "jordan"
+    },
+    {
+      "match_id": "M71",
+      "player": "Demo Fan 1",
+      "pick": "portugal"
+    },
+    {
+      "match_id": "M71",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M71",
+      "player": "Demo Fan 3",
+      "pick": "colombia"
+    },
+    {
+      "match_id": "M71",
+      "player": "Demo Fan 4",
+      "pick": "portugal"
+    },
+    {
+      "match_id": "M72",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "M72",
+      "player": "Demo Fan 2",
+      "pick": "congo dr"
+    },
+    {
+      "match_id": "M72",
+      "player": "Demo Fan 3",
+      "pick": "uzbekistan"
+    },
+    {
+      "match_id": "M72",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-01",
+      "player": "Demo Fan 1",
+      "pick": "south africa"
+    },
+    {
+      "match_id": "R32-01",
+      "player": "Demo Fan 2",
+      "pick": "canada"
+    },
+    {
+      "match_id": "R32-01",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-01",
+      "player": "Demo Fan 4",
+      "pick": "south africa"
+    },
+    {
+      "match_id": "R32-02",
+      "player": "Demo Fan 1",
+      "pick": "japan"
+    },
+    {
+      "match_id": "R32-02",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-02",
+      "player": "Demo Fan 3",
+      "pick": "brazil"
+    },
+    {
+      "match_id": "R32-02",
+      "player": "Demo Fan 4",
+      "pick": "japan"
+    },
+    {
+      "match_id": "R32-03",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-03",
+      "player": "Demo Fan 2",
+      "pick": "germany"
+    },
+    {
+      "match_id": "R32-03",
+      "player": "Demo Fan 3",
+      "pick": "paraguay"
+    },
+    {
+      "match_id": "R32-03",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-04",
+      "player": "Demo Fan 1",
+      "pick": "netherlands"
+    },
+    {
+      "match_id": "R32-04",
+      "player": "Demo Fan 2",
+      "pick": "morocco"
+    },
+    {
+      "match_id": "R32-04",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-04",
+      "player": "Demo Fan 4",
+      "pick": "netherlands"
+    },
+    {
+      "match_id": "R32-05",
+      "player": "Demo Fan 1",
+      "pick": "norway"
+    },
+    {
+      "match_id": "R32-05",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-05",
+      "player": "Demo Fan 3",
+      "pick": "côte d'ivoire"
+    },
+    {
+      "match_id": "R32-05",
+      "player": "Demo Fan 4",
+      "pick": "norway"
+    },
+    {
+      "match_id": "R32-06",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-06",
+      "player": "Demo Fan 2",
+      "pick": "france"
+    },
+    {
+      "match_id": "R32-06",
+      "player": "Demo Fan 3",
+      "pick": "sweden"
+    },
+    {
+      "match_id": "R32-06",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-07",
+      "player": "Demo Fan 1",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "R32-07",
+      "player": "Demo Fan 2",
+      "pick": "ecuador"
+    },
+    {
+      "match_id": "R32-07",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-07",
+      "player": "Demo Fan 4",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "R32-08",
+      "player": "Demo Fan 1",
+      "pick": "congo dr"
+    },
+    {
+      "match_id": "R32-08",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-08",
+      "player": "Demo Fan 3",
+      "pick": "england"
+    },
+    {
+      "match_id": "R32-08",
+      "player": "Demo Fan 4",
+      "pick": "congo dr"
+    },
+    {
+      "match_id": "R32-09",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-09",
+      "player": "Demo Fan 2",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "R32-09",
+      "player": "Demo Fan 3",
+      "pick": "senegal"
+    },
+    {
+      "match_id": "R32-09",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-10",
+      "player": "Demo Fan 1",
+      "pick": "usa"
+    },
+    {
+      "match_id": "R32-10",
+      "player": "Demo Fan 2",
+      "pick": "bosnia and herzegovina"
+    },
+    {
+      "match_id": "R32-10",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-10",
+      "player": "Demo Fan 4",
+      "pick": "usa"
+    },
+    {
+      "match_id": "R32-11",
+      "player": "Demo Fan 1",
+      "pick": "austria"
+    },
+    {
+      "match_id": "R32-11",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-11",
+      "player": "Demo Fan 3",
+      "pick": "spain"
+    },
+    {
+      "match_id": "R32-11",
+      "player": "Demo Fan 4",
+      "pick": "austria"
+    },
+    {
+      "match_id": "R32-12",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-12",
+      "player": "Demo Fan 2",
+      "pick": "portugal"
+    },
+    {
+      "match_id": "R32-12",
+      "player": "Demo Fan 3",
+      "pick": "croatia"
+    },
+    {
+      "match_id": "R32-12",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-13",
+      "player": "Demo Fan 1",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "R32-13",
+      "player": "Demo Fan 2",
+      "pick": "algeria"
+    },
+    {
+      "match_id": "R32-13",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-13",
+      "player": "Demo Fan 4",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "R32-14",
+      "player": "Demo Fan 1",
+      "pick": "egypt"
+    },
+    {
+      "match_id": "R32-14",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-14",
+      "player": "Demo Fan 3",
+      "pick": "australia"
+    },
+    {
+      "match_id": "R32-14",
+      "player": "Demo Fan 4",
+      "pick": "egypt"
+    },
+    {
+      "match_id": "R32-15",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-15",
+      "player": "Demo Fan 2",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "R32-15",
+      "player": "Demo Fan 3",
+      "pick": "cabo verde"
+    },
+    {
+      "match_id": "R32-15",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-16",
+      "player": "Demo Fan 1",
+      "pick": "colombia"
+    },
+    {
+      "match_id": "R32-16",
+      "player": "Demo Fan 2",
+      "pick": "ghana"
+    },
+    {
+      "match_id": "R32-16",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R32-16",
+      "player": "Demo Fan 4",
+      "pick": "colombia"
+    },
+    {
+      "match_id": "R16-01",
+      "player": "Demo Fan 1",
+      "pick": "morocco"
+    },
+    {
+      "match_id": "R16-01",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-01",
+      "player": "Demo Fan 3",
+      "pick": "canada"
+    },
+    {
+      "match_id": "R16-01",
+      "player": "Demo Fan 4",
+      "pick": "morocco"
+    },
+    {
+      "match_id": "R16-02",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-02",
+      "player": "Demo Fan 2",
+      "pick": "paraguay"
+    },
+    {
+      "match_id": "R16-02",
+      "player": "Demo Fan 3",
+      "pick": "france"
+    },
+    {
+      "match_id": "R16-02",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-03",
+      "player": "Demo Fan 1",
+      "pick": "brazil"
+    },
+    {
+      "match_id": "R16-03",
+      "player": "Demo Fan 2",
+      "pick": "norway"
+    },
+    {
+      "match_id": "R16-03",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-03",
+      "player": "Demo Fan 4",
+      "pick": "brazil"
+    },
+    {
+      "match_id": "R16-04",
+      "player": "Demo Fan 1",
+      "pick": "england"
+    },
+    {
+      "match_id": "R16-04",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-04",
+      "player": "Demo Fan 3",
+      "pick": "mexico"
+    },
+    {
+      "match_id": "R16-04",
+      "player": "Demo Fan 4",
+      "pick": "england"
+    },
+    {
+      "match_id": "R16-05",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-05",
+      "player": "Demo Fan 2",
+      "pick": "spain"
+    },
+    {
+      "match_id": "R16-05",
+      "player": "Demo Fan 3",
+      "pick": "portugal"
+    },
+    {
+      "match_id": "R16-05",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-06",
+      "player": "Demo Fan 1",
+      "pick": "usa"
+    },
+    {
+      "match_id": "R16-06",
+      "player": "Demo Fan 2",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "R16-06",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-06",
+      "player": "Demo Fan 4",
+      "pick": "usa"
+    },
+    {
+      "match_id": "R16-07",
+      "player": "Demo Fan 1",
+      "pick": "egypt"
+    },
+    {
+      "match_id": "R16-07",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-07",
+      "player": "Demo Fan 3",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "R16-07",
+      "player": "Demo Fan 4",
+      "pick": "egypt"
+    },
+    {
+      "match_id": "R16-08",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "R16-08",
+      "player": "Demo Fan 2",
+      "pick": "colombia"
+    },
+    {
+      "match_id": "R16-08",
+      "player": "Demo Fan 3",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "R16-08",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "QF-01",
+      "player": "Demo Fan 1",
+      "pick": "france"
+    },
+    {
+      "match_id": "QF-01",
+      "player": "Demo Fan 2",
+      "pick": "morocco"
+    },
+    {
+      "match_id": "QF-01",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "QF-01",
+      "player": "Demo Fan 4",
+      "pick": "france"
+    },
+    {
+      "match_id": "QF-02",
+      "player": "Demo Fan 1",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "QF-02",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "QF-02",
+      "player": "Demo Fan 3",
+      "pick": "spain"
+    },
+    {
+      "match_id": "QF-02",
+      "player": "Demo Fan 4",
+      "pick": "belgium"
+    },
+    {
+      "match_id": "QF-03",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "QF-03",
+      "player": "Demo Fan 2",
+      "pick": "norway"
+    },
+    {
+      "match_id": "QF-03",
+      "player": "Demo Fan 3",
+      "pick": "england"
+    },
+    {
+      "match_id": "QF-03",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "QF-04",
+      "player": "Demo Fan 1",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "QF-04",
+      "player": "Demo Fan 2",
+      "pick": "switzerland"
+    },
+    {
+      "match_id": "QF-04",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "QF-04",
+      "player": "Demo Fan 4",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "SF-01",
+      "player": "Demo Fan 1",
+      "pick": "spain"
+    },
+    {
+      "match_id": "SF-01",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "SF-01",
+      "player": "Demo Fan 3",
+      "pick": "france"
+    },
+    {
+      "match_id": "SF-01",
+      "player": "Demo Fan 4",
+      "pick": "spain"
+    },
+    {
+      "match_id": "SF-02",
+      "player": "Demo Fan 1",
+      "pick": "draw"
+    },
+    {
+      "match_id": "SF-02",
+      "player": "Demo Fan 2",
+      "pick": "england"
+    },
+    {
+      "match_id": "SF-02",
+      "player": "Demo Fan 3",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "SF-02",
+      "player": "Demo Fan 4",
+      "pick": "draw"
+    },
+    {
+      "match_id": "3P-01",
+      "player": "Demo Fan 1",
+      "pick": "france"
+    },
+    {
+      "match_id": "3P-01",
+      "player": "Demo Fan 2",
+      "pick": "england"
+    },
+    {
+      "match_id": "3P-01",
+      "player": "Demo Fan 3",
+      "pick": "draw"
+    },
+    {
+      "match_id": "3P-01",
+      "player": "Demo Fan 4",
+      "pick": "france"
+    },
+    {
+      "match_id": "F-01",
+      "player": "Demo Fan 1",
+      "pick": "spain"
+    },
+    {
+      "match_id": "F-01",
+      "player": "Demo Fan 2",
+      "pick": "draw"
+    },
+    {
+      "match_id": "F-01",
+      "player": "Demo Fan 3",
+      "pick": "argentina"
+    },
+    {
+      "match_id": "F-01",
+      "player": "Demo Fan 4",
+      "pick": "spain"
+    }
+  ]
+}

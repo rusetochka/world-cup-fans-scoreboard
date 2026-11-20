@@ -1,0 +1,4 @@
+node_modules
+.git
+wc-demo-private-check.cjs
+*.log
